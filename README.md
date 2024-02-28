@@ -1,4 +1,4 @@
-##Let's Talk
+## Let's Talk
 
 Let's Talk is a multithreaded chat application for Linux that facilitates real-time text-based communication between two users through terminal-to-terminal interaction. This C program utilizes pthreads for concurrent communication via UDP, implementing features such as peer-to-peer communication, effective synchronization, and UDP socket communication.
 
