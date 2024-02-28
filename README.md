@@ -8,5 +8,6 @@ Let's Talk is a multithreaded chat application for Linux that facilitates real-t
 
 **Usage**
 * Type make in terminal to compile program
-* Type ./s-talk followed by your port number, the other user's hostname (typically their computer name), and then their port number.
+* Type ./s-talk followed by your port number, the other user's hostname, and then their port number.
+* The other user will also type ./s-talk followed by their port number, your hostname and then your port number.
 * Type ! and Enter to exit the chat
