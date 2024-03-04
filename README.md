@@ -20,4 +20,4 @@ Example:
 ```
 ./s-talk 3000 localhost 6000
 ```
-* Type `!` and press Enter to exit the chat
+* To exit the chat, Type `!` and press Enter.
